@@ -19,6 +19,9 @@ I'm a Front-end developer with 2 years experience with Angular2+, HTML5, CSS, JS
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PhanHoangF&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
+## Leet code stat
+![Leetcode Stats](https://leetcard.jacoblin.cool/PhanHoangf)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
